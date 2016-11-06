@@ -253,4 +253,52 @@ LogInit: Object subsystem initialized
 [2016.11.06-21.24.33:254][924]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
 [2016.11.06-21.24.33:266][924]BlueprintEditorCompileResults: Info [5816.15] Compile of GameplayPC successful! [in 592 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
 [2016.11.06-21.24.43:396][159]LogSavePackage: Save=193.27ms
-[2016.11.06-21.24.43:397][159]LogSavePackage: Moving 
+[2016.11.06-21.24.43:397][159]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenu206079C146B9FDF293B677BE5058E46D.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.06-21.24.43:400][159]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.06-21.24.43:411][159]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.06-21.25.06:720][371]LogSavePackage: Save=113.38ms
+[2016.11.06-21.25.06:720][371]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenu2CB22E8F4B62C9FB8DA6FEBE8899F25E.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.06-21.25.06:722][371]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.06-21.25.06:727][371]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.06-21.40.56:075][273]LogSavePackage: Save=97.39ms
+[2016.11.06-21.40.56:075][273]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenu11DAEFC24FB8850A64CFCB8E34BE3BC3.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.06-21.40.56:077][273]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.06-21.40.56:085][273]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.06-21.45.39:504][231]BlueprintLog: New page: Compile GameplayPC
+[2016.11.06-21.45.39:784][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2016.11.06-21.45.39:930][231]LogSavePackage: Save=99.52ms
+[2016.11.06-21.45.39:930][231]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPCD495F04D486932F763516DBB9209B9C6.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2016.11.06-21.45.39:980][231]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
+[2016.11.06-21.45.39:984][231]BlueprintEditorCompileResults: Info [7082.87] Compile of GameplayPC successful! [in 480 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.45.45:446][509]BlueprintLog: New page: Compile GameplayPC
+[2016.11.06-21.45.45:723][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2016.11.06-21.45.45:860][509]LogSavePackage: Save=95.76ms
+[2016.11.06-21.45.45:860][509]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPC6745AA4A40CDF6F1301233B81F42093D.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2016.11.06-21.45.45:878][509]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
+[2016.11.06-21.45.45:880][509]BlueprintEditorCompileResults: Info [7088.76] Compile of GameplayPC successful! [in 433 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.46.26:017][734]LogSavePackage: Save=113.11ms
+[2016.11.06-21.46.26:017][734]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenuB0DCD19E4D869C184D2EA489D1978282.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.06-21.46.26:018][734]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.06-21.46.26:027][734]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.06-21.47.06:383][717]BlueprintLog: New page: Compile GameplayPC
+[2016.11.06-21.47.06:446][717]LogBlueprint:Error: Compiler Error The type of  Object  is undetermined.  Connect something to  Cast To Base  to imply a specific type.
+[2016.11.06-21.47.06:459][717]LogBlueprint:Error: Compiler Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.06-21.47.06:770][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2016.11.06-21.47.06:907][717]LogSavePackage: Save=90.71ms
+[2016.11.06-21.47.06:907][717]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPC1E246A4F4251DCDFA0DFDF8070F97837.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2016.11.06-21.47.06:910][717]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
+[2016.11.06-21.47.06:914][717]LogBlueprint:Warning: Compiler Warning [7169.80] Compile of GameplayPC failed. 2 Fatal Issue(s) 0 Warning(s) [in 531 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.47.06:915][717]BlueprintEditorCompileResults:Error: Error The type of  Object  is undetermined.  Connect something to  Cast To Base  to imply a specific type.
+[2016.11.06-21.47.06:915][717]BlueprintEditorCompileResults:Error: Error The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2016.11.06-21.47.06:915][717]BlueprintEditorCompileResults:Warning: Warning [7169.80] Compile of GameplayPC failed. 2 Fatal Issue(s) 0 Warning(s) [in 531 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.47.58:587][665]BlueprintLog: New page: Compile GameplayPC
+[2016.11.06-21.47.58:644][665]LogBlueprint:Warning: Compiler Warning 'Base' does not inherit from 'Gameplay PC' ( Cast To Base  would always fail).
+[2016.11.06-21.47.58:867][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2016.11.06-21.47.59:005][665]LogSavePackage: Save=97.40ms
+[2016.11.06-21.47.59:005][665]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPC294256604A635105F7B7F4B51402401E.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2016.11.06-21.47.59:010][665]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
+[2016.11.06-21.47.59:013][665]LogBlueprint:Warning: Compiler Warning [7221.90] Compile of GameplayPC successful, but with 1 Warning(s) [in 426 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.47.59:014][665]BlueprintEditorCompileResults:Warning: Warning 'Base' does not inherit from 'Gameplay PC' ( Cast To Base  would always fail).
+[2016.11.06-21.47.59:014][665]BlueprintEditorCompileResults:Warning: Warning [7221.90] Compile of GameplayPC successful, but with 1 Warning(s) [in 426 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.06-21.50.33:056][981]BlueprintLog: New page: Compile GameplayPC
+[2016.11.06-21.50.33:375][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineP
