@@ -299,4 +299,33 @@ LogInit: Object subsystem initialized
 [2016.11.07-22.02.59:445][200]LogSavePackage: Save=99.21ms
 [2016.11.07-22.02.59:445][200]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPC931A36734073FFFD20051B9CCBE872E3.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
 [2016.11.07-22.02.59:450][200]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
-[2016.11.07-22.02.59:453][200]BlueprintEditorCompile
+[2016.11.07-22.02.59:453][200]BlueprintEditorCompileResults: Info [0642.03] Compile of GameplayPC successful! [in 465 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.07-22.03.02:772][372]LogSavePackage: Save=147.79ms
+[2016.11.07-22.03.02:773][372]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenuB7B34902418CD69DBE4252B395C922A5.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.07-22.03.02:776][372]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.07-22.03.02:783][372]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.07-22.15.43:993][270]LogSavePackage: Save=161.11ms
+[2016.11.07-22.15.43:994][270]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenu26EBB49542ACD5210EEA7E9543E0699B.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.07-22.15.43:996][270]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.07-22.15.44:002][270]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.07-22.20.00:826][379]LogEditorTransaction: Undo Break Pin Link
+[2016.11.07-22.20.01:323][392]LogEditorTransaction: Undo Move Node
+[2016.11.07-22.20.01:781][411]LogEditorTransaction: Undo Move Node
+[2016.11.07-22.20.02:216][429]LogEditorTransaction: Undo Create Pin Link
+[2016.11.07-22.20.02:686][447]LogEditorTransaction: Undo Move Node
+[2016.11.07-22.20.03:170][467]LogEditorTransaction: Undo Add Node
+[2016.11.07-22.20.05:609][588]BlueprintLog: New page: Compile GameplayPC
+[2016.11.07-22.20.05:939][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/GameplayPC" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2016.11.07-22.20.06:103][588]LogSavePackage: Save=113.01ms
+[2016.11.07-22.20.06:103][588]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/GameplayPC27929F8943901E1483CC4788C44C6BDA.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset'
+[2016.11.07-22.20.06:108][588]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Gameplay/GameplayPC.uasset
+[2016.11.07-22.20.06:112][588]BlueprintEditorCompileResults: Info [1668.68] Compile of GameplayPC successful! [in 502 ms] (/Game/Blueprints/Gameplay/GameplayPC.GameplayPC)
+[2016.11.07-22.20.29:762][848]LogSavePackage: Save=122.46ms
+[2016.11.07-22.20.29:762][848]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/UEDPCMainMenu90A687FA443E5F5EE18DBBA3D7C51212.tmp' to '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap'
+[2016.11.07-22.20.29:765][848]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Autosaves/Game/Maps/UEDPCMainMenu.umap
+[2016.11.07-22.20.29:771][848]LogEditorTransaction: Undo Spawn Play From Here Start
+[2016.11.07-22.24.49:512][486]LogRenderer: Reallocating scene render targets to support 816x440 (Frame:15999).
+[2016.11.07-22.25.32:885][568]BlueprintLog: New page: Compile Base
+[2016.11.07-22.25.34:988][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Base" FILE="../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Content/Blueprints/Characters/Base.uasset" SILENT=true
+[2016.11.07-22.25.35:125][568]LogSavePackage: Save=91.83ms
+[2016.11.07-22.25.35:125][568]LogSavePackage: Moving '../../../../../../Users/Kevin/Desktop/Online_V3/OnlineProject_Kevin/Saved/Base80DAD27443D7764939A19E98B2BB0B33.tmp
